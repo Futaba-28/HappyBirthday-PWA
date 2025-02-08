@@ -6,8 +6,14 @@ self.addEventListener('install', (event) => {
         '/index.html',
         '/style.css',
         '/app.js',
-        '/icon/192x192.png',
-        '/icon/512x512.png'
+        '/celebrate.js',
+        '/celebrate.html',
+        '/make-a-wish.html',
+        '/make-a-wish.js',
+        '/music.js',
+        'music.html',
+        '/media/images/logos/cake_192.png',
+        '/media/images/logos/cake_512.png'
       ]);
     })
   );
